@@ -15,7 +15,7 @@
 
 - MSc Data Science student at Addis Ababa University
 - Interested in data analytics, statistics, and machine learning
-- Exploring data-driven problem-solving and research
+- Exploring data driven problem solving and research
 - Always learning and building new projects
 
 ### Tech Stack
